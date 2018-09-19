@@ -1,0 +1,7 @@
+s-c w(c)=0.041e-2
+s-c w(si)=0.33e-2
+s-c w(mn)=1.71e-2
+s-c w(cr)=18.2e-2
+s-c w(ni)=8.1e-2
+s-c w(cu)=0.37e-2
+s-c w(n)=0.054e-2
